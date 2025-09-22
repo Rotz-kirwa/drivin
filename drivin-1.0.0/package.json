@@ -1,0 +1,13 @@
+{
+  "name": "drivin-kenya",
+  "version": "1.0.0",
+  "description": "Driving School Website for Kenya",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["driving", "school", "kenya", "website"],
+  "author": "Eliud",
+  "license": "MIT"
+}
